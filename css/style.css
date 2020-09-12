@@ -49,6 +49,14 @@ p{
 .navbar {
   border-bottom: #FFD700 3px solid;
 }
+
+/*HEADER*/
+
+svg{
+  width: 24px;
+  fill: #FFD700;
+}
+
 /* HOME SECTION */
 #home{
   background: url(https://images.unsplash.com/photo-1470058869958-2a77ade41c02?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
